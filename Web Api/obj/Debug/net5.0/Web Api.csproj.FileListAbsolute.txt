@@ -1,0 +1,32 @@
+D:\Web Api\obj\Debug\net5.0\Web Api.csprojAssemblyReference.cache
+D:\Web Api\obj\Debug\net5.0\Web Api.AssemblyInfoInputs.cache
+D:\Web Api\obj\Debug\net5.0\Web Api.AssemblyInfo.cs
+D:\Web Api\obj\Debug\net5.0\Web Api.csproj.CoreCompileInputs.cache
+D:\Web Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Web Api\bin\Debug\net5.0\appsettings.json
+D:\Web Api\bin\Debug\net5.0\Web Api.exe
+D:\Web Api\bin\Debug\net5.0\Web Api.deps.json
+D:\Web Api\bin\Debug\net5.0\Web Api.runtimeconfig.json
+D:\Web Api\bin\Debug\net5.0\Web Api.runtimeconfig.dev.json
+D:\Web Api\bin\Debug\net5.0\Web Api.dll
+D:\Web Api\bin\Debug\net5.0\ref\Web Api.dll
+D:\Web Api\bin\Debug\net5.0\Web Api.pdb
+D:\Web Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Web Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Web Api\obj\Debug\net5.0\Web Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Api\obj\Debug\net5.0\Web Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Web Api\obj\Debug\net5.0\Web Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Api\obj\Debug\net5.0\staticwebassets\Web Api.StaticWebAssets.Manifest.cache
+D:\Web Api\obj\Debug\net5.0\staticwebassets\Web Api.StaticWebAssets.xml
+D:\Web Api\obj\Debug\net5.0\scopedcss\bundle\Web Api.styles.css
+D:\Web Api\obj\Debug\net5.0\Web Api.RazorTargetAssemblyInfo.cache
+D:\Web Api\obj\Debug\net5.0\Web Api.csproj.CopyComplete
+D:\Web Api\obj\Debug\net5.0\Web Api.dll
+D:\Web Api\obj\Debug\net5.0\ref\Web Api.dll
+D:\Web Api\obj\Debug\net5.0\Web Api.pdb
+D:\Web Api\obj\Debug\net5.0\Web Api.genruntimeconfig.cache
+D:\Web Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Web Api\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\Web Api\bin\Debug\net5.0\AWSSDK.DynamoDBv2.dll
